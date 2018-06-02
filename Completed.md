@@ -23,4 +23,4 @@
  
  React - Use Array.filter() to Dynamically Filter an Array: [FilterArrayRender](https://github.com/chartman4/fccReact/blob/master/FilterArrayRender)
  
-React - Render React on the Server with renderToString : [renderToString]()
+React - Render React on the Server with renderToString : [renderToString](https://github.com/chartman4/fccReact/blob/master/renderToString)
