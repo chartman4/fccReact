@@ -45,4 +45,8 @@ Write a Counter with Redux : [WriteaCounterwithRedux](https://github.com/chartma
 
 Redux - Never Mutate State : [ReduxNeverMutateState](https://github.com/chartman4/fccReact/blob/master/ReduxNeverMutateState)
 
-Redux - Use the Spread Operator on Arrays : [UsetheSpreadOperatoronArrays]()
+Redux - Use the Spread Operator on Arrays : [UsetheSpreadOperatoronArrays](https://github.com/chartman4/fccReact/blob/master/ReduxUsetheSpreadOperatoronArrays)
+
+Redux - Remove an Item from an Array : [Redux - Remove an Item from an Array](https://github.com/chartman4/fccReact/blob/master/ReduxRemoveanItemfromanArray)
+
+Redux - Copy an Object with Object.assign : [ReduxCopyanObjectwithObjectassign](https://github.com/chartman4/fccReact/blob/master/ReduxCopyanObjectwithObjectassign)
