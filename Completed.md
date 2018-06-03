@@ -21,6 +21,22 @@
  
  Give Sibling Elements a Unique Key Attribute : [ArrayMapRenderWithKey](https://github.com/chartman4/fccReact/blob/master/ArrayMapRenderWithKey)
  
- React - Use Array.filter() to Dynamically Filter an Array: [FilterArrayRender](https://github.com/chartman4/fccReact/blob/master/FilterArrayRender)
+ Use Array.filter() to Dynamically Filter an Array: [FilterArrayRender](https://github.com/chartman4/fccReact/blob/master/FilterArrayRender)
  
-React - Render React on the Server with renderToString : [renderToString](https://github.com/chartman4/fccReact/blob/master/renderToString)
+Render React on the Server with renderToString : [renderToString](https://github.com/chartman4/fccReact/blob/master/renderToString)
+
+#Reduct
+
+Handle an Action in the Store[HandleActionInReduxStore](https://github.com/chartman4/fccReact/blob/master/HandleActionInReduxStore)
+
+Use a Switch Statement to Handle Multiple Actions : [SwitchStatementtoHandleMultipleActions](https://github.com/chartman4/fccReact/blob/master/HandleActionInReduxStore)
+
+Use const for Action Types : [constForActionTypes](https://github.com/chartman4/fccReact/blob/master/constForActionTypes)
+
+Register a Store Listener : [RegisteraStoreListener](https://github.com/chartman4/fccReact/blob/master/RegisteraStoreListener)
+
+Combine Multiple Reducers : [CombineMultipleReducers](https://github.com/chartman4/fccReact/blob/master/CombineMultipleReducers)
+
+Send Action Data to the Store : [SendActionDatatotheStore](https://github.com/chartman4/fccReact/blob/master/SendActionDatatotheStore)
+
+Use Middleware to Handle Asynchronous Actions
