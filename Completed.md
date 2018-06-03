@@ -43,4 +43,6 @@ Use Middleware to Handle Asynchronous Actions : [UseMiddlewaretoHandleAsyncActio
 
 Write a Counter with Redux : [WriteaCounterwithRedux](https://github.com/chartman4/fccReact/blob/master/WriteaCounterwithRedux)
 
-Redux - Never Mutate State : []()
+Redux - Never Mutate State : [ReduxNeverMutateState](https://github.com/chartman4/fccReact/blob/master/ReduxNeverMutateState)
+
+Redux - Use the Spread Operator on Arrays : [UsetheSpreadOperatoronArrays]()
